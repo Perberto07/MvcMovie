@@ -1,0 +1,38 @@
+﻿/* custom.css */
+
+/* Custom Background Colors */
+.dark-blue {
+    background-color: #000957; 
+}
+
+.blue {
+    background-color: #344CB7; 
+}
+
+.m-blue {
+    background-color: #a2d2ff;
+}
+.bg-yellow {
+    background-color: #FFEB00;
+}
+/* Custom Text Colors */    
+.text-orange {
+    color: rgb(255, 165, 0);
+}
+
+.text-purple {
+    color: rgb(128, 0, 128);
+}
+
+.text-soft-blue {
+    color: #a2d2ff;
+}
+
+/* Optional: Custom Border Colors */
+.border-orange {
+    border: 1px solid rgb(255, 165, 0);
+}
+
+.border-purple {
+    border: 1px solid rgb(128, 0, 128);
+}
